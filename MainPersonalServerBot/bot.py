@@ -19,7 +19,7 @@ strikes = {}
 
 
 #Reference Lists
-helloPrompts = ["hey server", "yo server", "hello server"]
+helloPrompts = ["hey server", "hi server", "hello server"]
 
 
 f = open("/Users/kshaunishaddala/Downloads/facebook-bad-words-list_comma-separated-text-file_2021_01_18.txt", "r")
